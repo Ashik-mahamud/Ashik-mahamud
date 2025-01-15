@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 - 🔭 I’m currently working on  using React.js, Next.js 
 - 🌱 I’m currently learning Node.js
